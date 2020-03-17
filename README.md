@@ -1,1 +1,1 @@
-# Python-course-SI
+#Sortowanie metodami Bombelkową oraz przez wybór.
