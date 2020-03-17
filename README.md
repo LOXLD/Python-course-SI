@@ -1,1 +1,1 @@
-#Sortowanie metodami Bombelkową oraz przez wybór.
+# Sortowanie metodami Bombelkową oraz przez wybór.
